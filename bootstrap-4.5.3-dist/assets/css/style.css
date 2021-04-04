@@ -1,0 +1,8 @@
+
+.thead{
+    background: rgb(198,63,251);
+    background: radial-gradient(circle, rgba(198,63,251,1) 0%, rgba(252,70,208,1) 100%); 
+}
+#page{
+    padding-top: 500px;
+}
